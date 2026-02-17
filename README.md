@@ -39,14 +39,6 @@ Halo! 👋 Saya pelajar SMK Annur jurusan Rekayasa Perangkat Lunak (RPL) yang se
 
   <br><br>
 
-  <!-- Stats -->
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Giant206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giant206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" />
-  </div>
-
-  <br>
-
   <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giant206&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FACFE&ring=4FACFE&fire=4FACFE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" />
 
