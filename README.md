@@ -14,7 +14,7 @@ Currently learning and building projects with JavaScript & Web Development 🚀
 ![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square\&logo=visualstudiocode)
 ![Language](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square\&logo=javascript)
 ![Node](https://img.shields.io/badge/Runtime-NodeJS-green?style=flat-square\&logo=node.js)
-![Profile](https://komarev.com/ghpvc/?username=GANTI_USERNAME_KAMU\&style=flat-square)
+![Profile](https://komarev.com/ghpvc/?username=Giant206\&style=flat-square)
 
 ---
 
