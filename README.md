@@ -6,8 +6,11 @@
 
   <br><br>
 
-Halo! 👋 Saya pelajar SMK Annur jurusan Rekayasa Perangkat Lunak (RPL) yang sedang belajar pemrograman dan pengembangan software. Saya tertarik membangun bot, proyek web, dan mencoba teknologi baru, serta menikmati ngoding, eksperimen project, dan bermain game di waktu luang.
-
+  👨‍💻 **Siswa SMK Annur - Rekayasa Perangkat Lunak (RPL)**  
+  🔭 Belajar pengembangan web & bot Discord dengan JavaScript/Node.js  
+  🌱 Eksperimen proyek kecil setiap hari — dari to-do list sampai sistem perpustakaan  
+  💡 Percaya bahwa coding itu seperti membangun dunia digital, satu baris demi satu baris  
+  🎮 Di waktu luang: main game, ngoprek bot, atau nonton tutorial tech di YouTube  
 
   <br><br>
 
@@ -22,22 +25,24 @@ Halo! 👋 Saya pelajar SMK Annur jurusan Rekayasa Perangkat Lunak (RPL) yang se
     <a href="https://discord.gg/VcRh6wmMYM" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    <!-- Tambahkan Twitter/X jika ada -->
-    <!--
-    <a href="https://x.com/gian_tech" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-    </a>
-    -->
   </div>
 
   <br><br>
 
-  <!-- Animated Skill Icons -->
+  <!-- Skill Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,git,vscode,laravel&perline=8" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,git,vscode,laravel&perline=8" alt="Tech Stack" />
   </a>
 
   <br><br>
+
+  <!-- GitHub Stats -->
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Giant206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giant206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" />
+  </div>
+
+  <br>
 
   <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giant206&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FACFE&ring=4FACFE&fire=4FACFE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" />
@@ -52,7 +57,7 @@ Halo! 👋 Saya pelajar SMK Annur jurusan Rekayasa Perangkat Lunak (RPL) yang se
   <br>
 
   <p>
-    <i>✨ Coding lagi, coding lagii..</i>
+    <i>✨ Coding lagi, coding lagii…</i>
   </p>
 
   <br>
