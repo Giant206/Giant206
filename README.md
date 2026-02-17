@@ -13,13 +13,13 @@ Halo! 👋 Saya pelajar SMK Annur jurusan Rekayasa Perangkat Lunak (RPL) yang se
 
   <!-- Social Badges -->
   <div>
-    <a href="https://instagram.com/gian_xyz " target="_blank">
+    <a href="https://instagram.com/beangian_ " target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://tiktok.com/@gian_tech " target="_blank">
+    <a href="https://tiktok.com/@gianisman " target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
     </a>
-    <a href="https://discord.gg/VcRh6wmMYM " target="_blank">
+    <a href="http://discord.gg/users/1186985440759267351 " target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
     <!-- Tambahkan Twitter/X jika ada -->
