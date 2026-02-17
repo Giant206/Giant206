@@ -3,7 +3,6 @@
   <br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=4FACFE&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Gian!+%F0%9F%91%8B;JavaScript+Learner;%F0%9F%92%BB+Building+Bots+%26+Web+Apps;%F0%9F%8E%AE+Tech+%26+Gaming+Enthusiast" alt="Typing SVG"/>
-  <img src="https://i.pinimg.com/originals/83/74/26/837426df9d9b662cf84e1fcbf4419b46.gif"/>
 
   <br><br>
 
