@@ -20,7 +20,7 @@
 
 ## 📊 Activity Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_USERNAME_KAMU&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Giantku206&theme=tokyonight"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GANTI_USERNAME_KAMU&theme=tokyo-night"/>
 
