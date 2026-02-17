@@ -1,49 +1,27 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Gian;Beginner+Developer;JavaScript+Enjoyer;Bot+Builder"/>
+# 👋 Gian
 
-</div>
+💻 JavaScript Learner
+⚡ Building bots & web projects
+🎮 Tech & gaming enthusiast
 
----
+<br>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,git,vscode" />
 
-## 🚀 Tech Stack
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,vscode,git"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GANTI_USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+<br>
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_USERNAME_KAMU&theme=tokyonight&hide_border=true"/>
 
-## 📊 Activity Stats
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Giantku206&theme=tokyonight"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GANTI_USERNAME_KAMU&theme=tokyo-night"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 Currently Exploring
-
-JavaScript • Backend • Automation • React
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect
-
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Discord-Chat-blue?style=for-the-badge&logo=discord"/>
-<img src="https://img.shields.io/badge/Support-Coffee-orange?style=for-the-badge"/>
+⭐ Thanks for visiting!
 
 </div>
