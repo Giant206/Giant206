@@ -1,53 +1,41 @@
 <div align="center">
 
-# 👋 Hi, I'm Gian
+# 👋 Hi there, I'm Gian!
 
-💻 Beginner developer
-🚀 Learning JavaScript & Web Development
-🎮 Building bots & fun projects
+Currently learning and building projects with JavaScript & Web Development 🚀
 
 </div>
 
 ---
 
-<div align="center">
+## 🧰 Tools I Use
 
-## 🧰 Tech Stack
-
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-
-</div>
+![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square)
+![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square\&logo=visualstudiocode)
+![Language](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square\&logo=javascript)
+![Node](https://img.shields.io/badge/Runtime-NodeJS-green?style=flat-square\&logo=node.js)
+![Profile](https://komarev.com/ghpvc/?username=GANTI_USERNAME_KAMU\&style=flat-square)
 
 ---
 
-<div align="center">
+## 📊 Stats
 
-## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=GANTI_USERNAME_KAMU&show_icons=true&theme=default"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GANTI_USERNAME_KAMU&show_icons=true&theme=tokyonight"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_USERNAME_KAMU&layout=compact&theme=tokyonight"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_USERNAME_KAMU&layout=compact"/>
 
 ---
 
-<div align="center">
+## 🌱 What I'm learning
 
-## 🌱 Currently Learning
-
-JavaScript • Backend • Automation
-
-</div>
+* JavaScript Deep Dive
+* Backend Development
+* Bot Automation
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-⭐ Thanks for visiting!
-
-</div>
+![Website](https://img.shields.io/badge/Website-ComingSoon-black?style=flat-square)
+![Discord](https://img.shields.io/badge/Discord-Gian-blue?style=flat-square\&logo=discord)
+![PayPal](https://img.shields.io/badge/Support-PayPal-00457C?style=flat-square\&logo=paypal)
