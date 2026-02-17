@@ -51,7 +51,7 @@ Halo! 👋 Saya pelajar SMK Annur jurusan Rekayasa Perangkat Lunak (RPL) yang se
 
   <!-- Footer -->
   <p>
-    <img src="https://img.shields.io/badge/⭐_Thanks_for_visiting!_-0D1117?style=for-the-badge&color=4FACFE&logo=github&logoColor=white" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Giant206&layout=compact&theme=tokyonight&hide_border=true"/>
   </p>
 
   <br>
