@@ -2,7 +2,7 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com  ?font=Fira+Code&size=28&duration=3000&pause=500&color=4FACFE&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Gian!+%F0%9F%91%8B;JavaScript+Learner;%F0%9F%92%BB+Building+Bots+%26+Web+Apps;%F0%9F%8E%AE+Tech+%26+Gaming+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com ?font=Fira+Code&size=28&duration=3000&pause=500&color=4FACFE&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Gian!+%F0%9F%91%8B;JavaScript+Learner;%F0%9F%92%BB+Building+Bots+%26+Web+Apps;%F0%9F%8E%AE+Tech+%26+Gaming+Enthusiast" alt="Typing SVG" />
 
   <br><br>
 
@@ -13,13 +13,13 @@ Halo! 👋 Saya pelajar SMK Annur jurusan Rekayasa Perangkat Lunak (RPL) yang se
 
   <!-- Social Badges -->
   <div>
-    <a href="https://instagram.com/gian_xyz  " target="_blank">
+    <a href="https://instagram.com/gian_xyz " target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white  " alt="Instagram" />
     </a>
-    <a href="https://tiktok.com/@gian_tech  " target="_blank">
+    <a href="https://tiktok.com/@gian_tech " target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white  " alt="TikTok" />
     </a>
-    <a href="https://discord.gg/VcRh6wmMYM  " target="_blank">
+    <a href="https://discord.gg/VcRh6wmMYM " target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white  " alt="Discord" />
     </a>
     <!-- Tambahkan Twitter/X jika ada -->
@@ -33,8 +33,8 @@ Halo! 👋 Saya pelajar SMK Annur jurusan Rekayasa Perangkat Lunak (RPL) yang se
   <br><br>
 
   <!-- Animated Skill Icons -->
-  <a href="https://skillicons.dev  ">
-    <img src="https://skillicons.dev/icons?i=js  ,nodejs,react,html,css,git,vscode,laravel&perline=8" alt="Skills" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,git,vscode,laravel&perline=8" alt="Skills" />
   </a>
 
   <br><br>
@@ -46,7 +46,7 @@ Halo! 👋 Saya pelajar SMK Annur jurusan Rekayasa Perangkat Lunak (RPL) yang se
 
   <!-- Footer -->
   <p>
-    <img src="https://img.shields.io/badge  /⭐_Thanks_for_visiting!_-0D1117?style=for-the-badge&color=4FACFE&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/⭐_Thanks_for_visiting!_-0D1117?style=for-the-badge&color=4FACFE&logo=github&logoColor=white" />
   </p>
 
   <br>
