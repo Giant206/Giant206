@@ -6,6 +6,34 @@
 
   <br><br>
 
+  🔭 Saat ini sedang membangun bot Discord & website interaktif  
+  🌱 Belajar JavaScript, Node.js, dan React  
+  💬 Tanya apa saja — saya senang berdiskusi teknologi!  
+  ⚡ Fakta: Suka ngoding sambil dengerin musik & main game  
+
+  <br><br>
+
+  <!-- Social Badges -->
+  <div>
+    <a href="https://instagram.com/gian_xyz" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://tiktok.com/@gian_tech" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    </a>
+    <a href="https://discord.gg/VcRh6wmMYM" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <!-- Tambahkan Twitter/X jika ada -->
+    <!--
+    <a href="https://x.com/gian_tech" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    </a>
+    -->
+  </div>
+
+  <br><br>
+
   <!-- Animated Skill Icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,git,vscode,laravel&perline=8" alt="Skills" />
@@ -13,7 +41,7 @@
 
   <br><br>
 
-  <!-- Stats with subtle animation on hover (via GitHub's native rendering) -->
+  <!-- Stats -->
   <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=GANTI_USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" />
@@ -21,19 +49,18 @@
 
   <br>
 
-  <!-- Streak Stats -->
+  <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_USERNAME_KAMU&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FACFE&ring=4FACFE&fire=4FACFE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" />
 
   <br><br>
 
-  <!-- Glowing Star Badge -->
+  <!-- Footer -->
   <p>
     <img src="https://img.shields.io/badge/⭐_Thanks_for_visiting!_-0D1117?style=for-the-badge&color=4FACFE&logo=github&logoColor=white" />
   </p>
 
   <br>
 
-  <!-- Footer Animation: Subtle pulse -->
   <p>
     <i>✨ Coding lagi, coding lagii..</i>
   </p>
