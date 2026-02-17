@@ -35,7 +35,7 @@
 
   <!-- Footer Animation: Subtle pulse -->
   <p>
-    <i>✨ Crafting code one line at a time...</i>
+    <i>✨ Coding lagi, coding lagii..</i>
   </p>
 
   <br>
