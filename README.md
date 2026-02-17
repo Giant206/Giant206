@@ -1,62 +1,58 @@
 <div align="center">
 
-  <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4FACFE&height=160&section=header&text=Gian%20Dev&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=4FACFE&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Gian!+%F0%9F%91%8B;JavaScript+Learner;%F0%9F%92%BB+Building+Bots+%26+Web+Apps;%F0%9F%8E%AE+Tech+%26+Gaming+Enthusiast" alt="Typing SVG"/>
+<br>
 
-  <br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=4FACFE&center=true&vCenter=true&repeat=true&width=600&lines=Hello%2C+I'm+Gian!+👋;JavaScript+Learner;💻+Building+Bots+%26+Web+Apps;🎮+Tech+%26+Gaming+Enthusiast"/>
 
-Halo! 👋 Saya pelajar SMK Annur jurusan Rekayasa Perangkat Lunak (RPL) yang sedang belajar pemrograman dan pengembangan software. Saya tertarik membangun bot, proyek web, dan mencoba teknologi baru, serta menikmati ngoding, eksperimen project, dan bermain game di waktu luang.
+<br><br>
 
+Halo! 👋 Saya pelajar **SMK Annur — RPL** yang sedang belajar pemrograman dan pengembangan software.  
+Saya suka membangun bot, project web, mencoba teknologi baru, dan tentunya gaming 😎
 
-  <br><br>
+<br><br>
 
-  <!-- Social Badges -->
-  <div>
-    <a href="https://instagram.com/beangian_ " target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://tiktok.com/@gianisman " target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-    </a>
-    <a href="http://discord.gg/users/1186985440759267351 " target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <!-- Tambahkan Twitter/X jika ada -->
-    <!--
-    <a href="https://x.com/gian_tech  " target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white  " alt="X (Twitter)" />
-    </a>
-    -->
-  </div>
+### 🌐 Connect With Me
 
-  <br><br>
+<a href="https://instagram.com/beangian_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-  <!-- Animated Skill Icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,git,vscode,laravel&perline=8" alt="Skills"/>
-  </a>
+<a href="https://tiktok.com/@gianisman">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
 
-  <br><br>
+<a href="http://discord.gg/users/1186985440759267351">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
-  <div align="center">
-  <p>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Giant206&layout=compact&theme=tokyonight&hide_border=true"/>
-  </p>
-  </div>
+<br><br>
 
+### ⚙️ Tech Stack
 
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giant206&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FACFE&ring=4FACFE&fire=4FACFE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"/>
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,git,vscode,laravel&perline=8"/>
 
-  <br><br>
+<br><br>
 
-  <br>
+### 📊 GitHub Stats
 
-  <p>
-    <i>✨ Coding lagi, coding lagii..</i>
-  </p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Giant206&layout=compact&theme=tokyonight&hide_border=true"/>
 
-  <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Giant206&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Giant206/Giant206/output/snake.svg"/>
+
+<br><br>
+
+<i>✨ Coding lagi, coding lagii..</i>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4FACFE&height=120&section=footer"/>
 
 </div>
