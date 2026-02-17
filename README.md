@@ -1,41 +1,49 @@
 <div align="center">
 
-# 👋 Hi there, I'm Gian!
-
-Currently learning and building projects with JavaScript & Web Development 🚀
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Gian;Beginner+Developer;JavaScript+Enjoyer;Bot+Builder"/>
 
 </div>
 
 ---
 
-## 🧰 Tools I Use
+<div align="center">
 
-![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square)
-![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square\&logo=visualstudiocode)
-![Language](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square\&logo=javascript)
-![Node](https://img.shields.io/badge/Runtime-NodeJS-green?style=flat-square\&logo=node.js)
-![Profile](https://komarev.com/ghpvc/?username=Giant206\&style=flat-square)
+## 🚀 Tech Stack
 
----
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,vscode,git"/>
 
-## 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Giant206&show_icons=true&theme=default"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giant206&layout=compact"/>
+</div>
 
 ---
 
-## 🌱 What I'm learning
+<div align="center">
 
-* JavaScript Deep Dive
-* Backend Development
-* Bot Automation
+## 📊 Activity Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_USERNAME_KAMU&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GANTI_USERNAME_KAMU&theme=tokyo-night"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-![Website](https://img.shields.io/badge/Website-ComingSoon-black?style=flat-square)
-![Discord](https://img.shields.io/badge/Discord-Gian-blue?style=flat-square\&logo=discord)
-![PayPal](https://img.shields.io/badge/Support-PayPal-00457C?style=flat-square\&logo=paypal)
+## 🧠 Currently Exploring
+
+JavaScript • Backend • Automation • React
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect
+
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Discord-Chat-blue?style=for-the-badge&logo=discord"/>
+<img src="https://img.shields.io/badge/Support-Coffee-orange?style=for-the-badge"/>
+
+</div>
