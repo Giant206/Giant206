@@ -6,10 +6,8 @@
 
   <br><br>
 
-  🔭 Saat ini sedang membangun bot Discord & website interaktif  
-  🌱 Belajar JavaScript, Node.js, dan React  
-  💬 Tanya apa saja — saya senang berdiskusi teknologi!  
-  ⚡ Fakta: Suka ngoding sambil dengerin musik & main game  
+Halo! 👋 Saya pelajar SMK Annur jurusan Rekayasa Perangkat Lunak (RPL) yang sedang belajar pemrograman dan pengembangan software. Saya tertarik membangun bot, proyek web, dan mencoba teknologi baru, serta menikmati ngoding, eksperimen project, dan bermain game di waktu luang.
+
 
   <br><br>
 
