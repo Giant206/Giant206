@@ -60,6 +60,3 @@ Halo! 👋 Saya pelajar SMK Annur jurusan Rekayasa Perangkat Lunak (RPL) yang se
   <br>
 
 </div>
-
-
-tambahin stats nya dong dan di perbagus 
