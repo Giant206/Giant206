@@ -20,9 +20,9 @@ Currently learning and building projects with JavaScript & Web Development 🚀
 
 ## 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=GANTI_USERNAME_KAMU&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Giant206&show_icons=true&theme=default"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_USERNAME_KAMU&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giant206&layout=compact"/>
 
 ---
 
