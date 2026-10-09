@@ -32,10 +32,6 @@ Halo! 👋 Saya pelajar SMK Annur jurusan Rekayasa Perangkat Lunak (RPL) yang se
 
   <br><br>
 
-  <!-- Animated Skill Icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,git,vscode,laravel&perline=8" alt="Skills"/>
-  </a>
 
   <br><br>
 
